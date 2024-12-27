@@ -47,6 +47,21 @@ int main()
     cin>>choix;
 
     switch(choix){
+        case 2:
+            cout<< "cette fonctionalite n'est pa prise en charge pour raison de comprehension"<<endl;
+        case 3:
+            cout<< "cette fonctionalite n'est pa prise en charge pour raison de comprehension"<<endl;
+        case 4:
+            cout<< "cette fonctionalite n'est pa prise en charge pour raison de comprehension"<<endl;
+        case 5:
+            cout<< "cette fonctionalite n'est pa prise en charge pour raison de comprehension"<<endl;
+        case 6:
+            cout<< "cette fonctionalite n'est pa prise en charge pour raison de comprehension"<<endl;
+        case 7:
+            cout<< "cette fonctionalite n'est pa prise en charge pour raison de comprehension"<<endl;
+        default:
+            cout<< "aucune fonctionnalite saisie"<<endl;
+
         case 1:
             string nomR;
            cout<< "entrez le nom de la region :"<<endl;
@@ -105,6 +120,9 @@ int main()
            Region nom(departements);
            nom.afficherStatGlobale();
            enregistreRegion(nom,nomR,"region.txt");
+
         }
+
+
     return 0;
 }
