@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1735303820 source:h:\projetcplus\delegation\main.cpp
+	<iostream>
+	"agent.cpp"
+	"departement.cpp"
+	"region.cpp"
+	<fstream>
+
+1735302190 h:\projetcplus\delegation\agent.hh
+	<string>
+	<chrono>
+
+1735302190 h:\projetcplus\delegation\agent.cpp
+	"Agent.hh"
+	<chrono>
+	<ctime>
+
+1735296774 h:\projetcplus\delegation\departement.cpp
+	"Departement.hh"
+
+1735296679 h:\projetcplus\delegation\departement.hh
+	<vector>
+	<string>
+	"Agent.hh"
+
+1735300894 h:\projetcplus\delegation\region.cpp
+	<iostream>
+	"Region.hh"
+
+1735292325 h:\projetcplus\delegation\region.hh
+	<string>
+	"Departement.hh"
+

@@ -1,0 +1,32 @@
+1- les avantages apportés par la modularité sont les suivants:
+    - lisibilité du code;
+        avec cette facon de travailler le système est decouper en petite entité plus facile
+        a gérer, facilitant la compréhension pour le developpeur;
+    - reutilisabilité du code;
+        les methodes et attributs ainsi propres a chaque classe peuvent donc etre reutiliser dans
+        n'importe qu'elle partie de l'application
+    - interoperabilité;
+        permet a chaque ,odule de l'application de pouvoir fonctionner independamment des autres
+        tout en facilitant l'échange entre les différentes parties
+2- pour garantir l'intégrité des données et leur unicité
+    il faudrait effectuer des vérifications lors de l'enregistrement
+    de chaque agent en verifiant si son matricule est deja contenu inserer ou correspond deja a un Agent
+
+3- les améliorations pouvant optimizer ce système sont
+    l'ajout d'une base de données pour l'enregistrement et la gestion dynamique des données
+    mise en place d'une interface utilisateur avec bibliothèque graphique.
+
+4- la gestiion des ages de retraites permet de mieux suivre et gerer le renouvellement du personnel au sein des organisations et
+    et ainsi eviter le vieilissement.
+
+5- les avantages d'une base de données sur les fichiers
+    - les bases de données sont plus rapides que les fichiers;
+    - les bases de données sont plus sécurisées;
+    - les bases de données offrent plus de fonctionnalités;
+    - les bases de données ;
+    - les bases de données offrent plus d'espace de stockage;
+    - la possibilité d'externaliser les données;
+
+6- une exception est un erreur due a un cas d'utilisation non pris en charge d'un programme cela peut etre due soit
+    a cause d'une erreur de saisie, un calcul atypique.
+    ils sont utilisés en programmation pour prévoir les erreurs dues a une mauvaise utilisation ou des erreurs potentielles
